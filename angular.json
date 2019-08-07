@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "chrysan-planner"
+    }
+  },
+  "defaultProject": "chrysan-planner",
+  "cli": {
+    "defaultCollection": "@datorama/akita"
+  }
 }
